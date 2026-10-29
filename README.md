@@ -53,5 +53,4 @@ I value practical experimentation, independent learning, and turning ideas into 
 ## Links
 
 - **Website:** https://mjzand.ir
-- **GitHub:** https://github.com/mjzand
 - **LinkedIn:** https://www.linkedin.com/in/javad-zand-68a89b433
